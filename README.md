@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kothamasipradeep
-- 👀 I’m interested work as a python developer
+- 👀 I’m interested to work as a python developer
 - 🌱 I’m currently learning python,flask and machine learning
 
 
